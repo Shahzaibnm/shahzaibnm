@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.banner img{
+	width: 100%;
+}
+.rooms{
+	background: #ebd4d4;
+}
+
+.rooms img{
+
+	width: 100px;
+	padding:1px;
+}
+
